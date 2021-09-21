@@ -2,8 +2,9 @@
  * Node.
  *
  * @param {any} value
+ * @param {Node} next
  */
-export default function Node(value) {
+export default function Node(value, next) {
 	this._value = value;
-	this._next = null;
+	this._next = next;
 }

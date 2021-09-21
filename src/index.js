@@ -1,4 +1,5 @@
 export {default as Node} from './Node.js';
+export {default as _insertAfter} from './_insertAfter.js';
 export {default as _isLast} from './_isLast.js';
 export {default as _iter} from './_iter.js';
 export {default as _iter_fast} from './_iter_fast.js';
@@ -12,6 +13,7 @@ export {default as _value} from './_value.js';
 export {default as concat} from './concat.js';
 export {default as empty} from './empty.js';
 export {default as from} from './from.js';
+export {default as insertAfter} from './insertAfter.js';
 export {default as isEmpty} from './isEmpty.js';
 export {default as isLast} from './isLast.js';
 export {default as isList} from './isList.js';

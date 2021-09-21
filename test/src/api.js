@@ -15,6 +15,7 @@ import {
 	value,
 	setValue,
 	values,
+	insertAfter,
 } from '../../src/index.js';
 
 const toArray = (first) => list(values(first));
@@ -28,6 +29,7 @@ test('API', (t) => {
 	t.throws(() => shift(A), {message: /empty/});
 	t.throws(() => value(A), {message: /empty/});
 	t.throws(() => setValue(A, {}), {message: /empty/});
+	t.throws(() => insertAfter(A, {}), {message: /empty/});
 	t.throws(() => last(A), {message: /empty/});
 
 	t.false(isLast(A));
@@ -73,4 +75,9 @@ test('API', (t) => {
 
 	t.deepEqual(toArray(A), [8, 2, 1, 4, 3, 7]);
 	t.deepEqual(toArray(B), []);
+
+	insertAfter(A, 9);
+	t.deepEqual(toArray(A), [8, 9, 2, 1, 4, 3, 7]);
+	insertAfter(last(A), 5);
+	t.deepEqual(toArray(A), [8, 9, 2, 1, 4, 3, 7, 5]);
 });

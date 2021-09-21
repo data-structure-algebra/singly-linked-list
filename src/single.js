@@ -7,5 +7,5 @@ import Node from './Node.js';
  * @return {Node} The node at the front of the list.
  */
 export default function single(value) {
-	return new Node(value);
+	return new Node(value, null);
 }
