@@ -1,0 +1,2131 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/Node.js",
+    "content": "/**\n * Node.\n *\n * @param {any} value\n * @param {Node} next\n */\nexport default function Node(value, next) {\n\tthis._value = value;\n\tthis._next = next;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/Node.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "Node",
+    "memberof": "src/Node.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/Node.js~Node",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/Node.js",
+    "importStyle": "Node",
+    "description": "Node.",
+    "lineNumber": 7,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "next",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/_insertAfter.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport unshift from './unshift.js';\nimport _setNext from './_setNext.js';\nimport _shift from './_shift.js';\n\n/**\n * Inserts value just after input node (cannot be null).\n *\n * @param {Node} x Input node (cannot be null).\n * @param {any} value\n */\nexport default function _insertAfter(x, value) {\n\tassert(isNonEmpty(x));\n\t_setNext(x, unshift(_shift(x), value));\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_insertAfter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "_insertAfter",
+    "memberof": "src/_insertAfter.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_insertAfter.js~_insertAfter",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_insertAfter.js",
+    "importStyle": "_insertAfter",
+    "description": "Inserts value just after input node (cannot be null).",
+    "lineNumber": 16,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input node (cannot be null)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "file",
+    "name": "src/_isLast.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _shift from './_shift.js';\n\n/**\n * _isLast.\n *\n * @param {Node} x\n * @return {boolean}\n */\nexport default function _isLast(x) {\n\tassert(isNonEmpty(x));\n\treturn isEmpty(_shift(x));\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_isLast.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "_isLast",
+    "memberof": "src/_isLast.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_isLast.js~_isLast",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_isLast.js",
+    "importStyle": "_isLast",
+    "description": "_isLast.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/_iter.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport _shift from './_shift.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Generator of nodes in list in order. You are allowed to edit the current\n * node.\n *\n * /!\\ Modifying the next pointer of the current node will NOT change which\n * node comes next in the iteration.\n *\n * @param {Node} first First node of the list.\n * @return {IterableIterator<Node>} Yields nodes of a list in order.\n */\nexport default function* _iter(first) {\n\tassert(isNonEmpty(first));\n\tlet next = first;\n\n\tdo {\n\t\tconst x = next;\n\t\tnext = _shift(x); // Compute next before yielding.\n\t\tyield x; // Necessary ?\n\t} while (!isEmpty(next));\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_iter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "function",
+    "name": "_iter",
+    "memberof": "src/_iter.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_iter.js~_iter",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_iter.js",
+    "importStyle": "_iter",
+    "description": "Generator of nodes in list in order. You are allowed to edit the current\nnode.\n\n/!\\ Modifying the next pointer of the current node will NOT change which\nnode comes next in the iteration.",
+    "lineNumber": 19,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "first",
+        "description": "First node of the list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator<Node>"
+      ],
+      "spread": false,
+      "description": "Yields nodes of a list in order."
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "file",
+    "name": "src/_iter_fast.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _shift from './_shift.js';\n\n/**\n * Generator of nodes in list in order. The list cannot be empty. You should\n * not modify the current node's next pointer unless you know what you are\n * doing.\n *\n * /!\\ Modifying the next pointer of the current node will change which node\n * comes next in the iteration.\n *\n * @param {Node} first First node of the list.\n * @return {IterableIterator<Node>} Yields nodes of a list in order.\n */\nexport default function* _iter_fast(first) {\n\tassert(isNonEmpty(first));\n\tlet next = first;\n\n\tdo {\n\t\tyield next;\n\t\tnext = _shift(next);\n\t} while (!isEmpty(next));\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_iter_fast.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "_iter_fast",
+    "memberof": "src/_iter_fast.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/_iter_fast.js~_iter_fast",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_iter_fast.js",
+    "importStyle": "_iter_fast",
+    "description": "Generator of nodes in list in order. The list cannot be empty. You should\nnot modify the current node's next pointer unless you know what you are\ndoing.\n\n/!\\ Modifying the next pointer of the current node will change which node\ncomes next in the iteration.",
+    "lineNumber": 20,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "first",
+        "description": "First node of the list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator<Node>"
+      ],
+      "spread": false,
+      "description": "Yields nodes of a list in order."
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/_last.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _isLast from './_isLast.js';\nimport _shift from './_shift.js';\n\n/**\n * Return the last node of a non-empty input list.\n *\n * @param {Node} x First node of the input list.\n * @return {Node} Last node of the input list.\n */\nexport default function _last(x) {\n\tassert(isNonEmpty(x));\n\twhile (!_isLast(x)) {\n\t\tx = _shift(x);\n\t}\n\n\treturn x;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_last.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "_last",
+    "memberof": "src/_last.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_last.js~_last",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_last.js",
+    "importStyle": "_last",
+    "description": "Return the last node of a non-empty input list.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of the input list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "Last node of the input list."
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/_len.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _shift from './_shift.js';\n\n/**\n * Compute the length of a non-empty list.\n *\n * @param {Node} x First node of the input list.\n * @return {number} The length of the input list.\n */\nexport default function _len(x) {\n\tassert(isNonEmpty(x));\n\tlet n = 1;\n\tlet y = _shift(x);\n\twhile (!isEmpty(y)) {\n\t\t++n;\n\t\ty = _shift(y);\n\t}\n\n\treturn n;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_len.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "_len",
+    "memberof": "src/_len.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_len.js~_len",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_len.js",
+    "importStyle": "_len",
+    "description": "Compute the length of a non-empty list.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of the input list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The length of the input list."
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/_pop.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport empty from './empty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _isLast from './_isLast.js';\nimport _setNext from './_setNext.js';\nimport _shift from './_shift.js';\n\n/**\n * Removes last {@link Node} from a non-empty list.\n *\n * @param {Node} x First node of input list (non-empty).\n * @return {[Node, Node]} New list (possibly empty) and removed node.\n */\nexport default function _pop(x) {\n\tassert(isNonEmpty(x));\n\tif (_isLast(x)) return [empty(), x];\n\tlet penultimate = x;\n\tlet last = _shift(x);\n\twhile (!_isLast(last)) {\n\t\tpenultimate = last;\n\t\tlast = _shift(last);\n\t}\n\n\t_setNext(penultimate, empty());\n\treturn [x, last];\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_pop.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "_pop",
+    "memberof": "src/_pop.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_pop.js~_pop",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_pop.js",
+    "importStyle": "_pop",
+    "description": "Removes last {@link Node} from a non-empty list.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of input list (non-empty)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[Node, Node]"
+      ],
+      "spread": false,
+      "description": "New list (possibly empty) and removed node."
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/_setNext.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isList from './isList.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Replace successor of the input node.\n *\n * @param {Node} x Node to replace the sucessor of.\n * @param {Node} y New successor (possibly null).\n */\nexport default function _setNext(x, y) {\n\tassert(isNonEmpty(x));\n\tassert(isList(y));\n\tx._next = y;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_setNext.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "_setNext",
+    "memberof": "src/_setNext.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_setNext.js~_setNext",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_setNext.js",
+    "importStyle": "_setNext",
+    "description": "Replace successor of the input node.",
+    "lineNumber": 14,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Node to replace the sucessor of."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "y",
+        "description": "New successor (possibly null)."
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "src/_setValue.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Set value held by input node.\n *\n * @param {Node} x Input node (cannot be null).\n * @param {any} value\n */\nexport default function _setValue(x, value) {\n\tassert(isNonEmpty(x));\n\tx._value = value;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_setValue.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "_setValue",
+    "memberof": "src/_setValue.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_setValue.js~_setValue",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_setValue.js",
+    "importStyle": "_setValue",
+    "description": "Set value held by input node.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input node (cannot be null)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 68,
+    "kind": "file",
+    "name": "src/_shift.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Removes first {@link Node} from a non-empty list.\n *\n * @param {Node} x First node (not null).\n * @return {Node} New list (possibly empty).\n */\nexport default function _shift(x) {\n\tassert(isNonEmpty(x));\n\treturn x._next;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_shift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "_shift",
+    "memberof": "src/_shift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_shift.js~_shift",
+    "access": "private",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_shift.js",
+    "importStyle": "_shift",
+    "description": "Removes first {@link Node} from a non-empty list.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node (not null)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "New list (possibly empty)."
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/_value.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Return the first value held by a non-empty list.\n *\n * @param {Node} x First node.\n * @return {any}\n */\nexport default function value(x) {\n\tassert(isNonEmpty(x));\n\treturn x._value;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/_value.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "value",
+    "memberof": "src/_value.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/_value.js~value",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/_value.js",
+    "importStyle": "value",
+    "description": "Return the first value held by a non-empty list.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "any"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/concat.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _setNext from './_setNext.js';\nimport _last from './_last.js';\n\n/**\n * Concatenate two input lists.\n *\n * @param {Node} x First node of first input list (can empty).\n * @param {Node} y First node of second input list (can empty).\n * @return {Node} First node of the output list (or an empty list).\n */\nexport default function concat(x, y) {\n\tif (isEmpty(x)) return y;\n\tassert(isNonEmpty(x));\n\tif (isEmpty(y)) return x;\n\tassert(isNonEmpty(y));\n\t_setNext(_last(x), y);\n\treturn x;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/concat.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "concat",
+    "memberof": "src/concat.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/concat.js~concat",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/concat.js",
+    "importStyle": "concat",
+    "description": "Concatenate two input lists.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of first input list (can empty)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "y",
+        "description": "First node of second input list (can empty)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "First node of the output list (or an empty list)."
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/empty.js",
+    "content": "/**\n * Return an empty list.\n *\n * @return {null} The empty list.\n */\nexport default function empty() {\n\treturn null;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/empty.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "function",
+    "name": "empty",
+    "memberof": "src/empty.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/empty.js~empty",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/empty.js",
+    "importStyle": "empty",
+    "description": "Return an empty list.",
+    "lineNumber": 6,
+    "return": {
+      "nullable": null,
+      "types": [
+        "null"
+      ],
+      "spread": false,
+      "description": "The empty list."
+    },
+    "params": []
+  },
+  {
+    "__docId__": 76,
+    "kind": "file",
+    "name": "src/from.js",
+    "content": "// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport _setNext from './_setNext.js';\nimport empty from './empty.js';\nimport single from './single.js';\n\n/**\n * Creates a list from an input iterable.\n *\n * @param {IterableIterator} iterable The input iterable.\n * @return {Node} First node of the newly created list (or null if empty list).\n */\nexport default function from(iterable) {\n\tconst it = iterable[Symbol.iterator]();\n\tconst event = it.next();\n\n\tif (event.done) return empty();\n\n\tconst first = single(event.value);\n\tlet last = first;\n\n\tfor (const value of it) {\n\t\tconst next = single(value);\n\t\t_setNext(last, next);\n\t\tlast = next;\n\t}\n\n\treturn first;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/from.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "from",
+    "memberof": "src/from.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/from.js~from",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/from.js",
+    "importStyle": "from",
+    "description": "Creates a list from an input iterable.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "IterableIterator"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "iterable",
+        "description": "The input iterable."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "First node of the newly created list (or null if empty list)."
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "export {default as Node} from './Node.js';\nexport {default as _insertAfter} from './_insertAfter.js';\nexport {default as _isLast} from './_isLast.js';\nexport {default as _iter} from './_iter.js';\nexport {default as _iter_fast} from './_iter_fast.js';\nexport {default as _last} from './_last.js';\nexport {default as _len} from './_len.js';\nexport {default as _pop} from './_pop.js';\nexport {default as _setNext} from './_setNext.js';\nexport {default as _setValue} from './_setValue.js';\nexport {default as _shift} from './_shift.js';\nexport {default as _value} from './_value.js';\nexport {default as concat} from './concat.js';\nexport {default as empty} from './empty.js';\nexport {default as from} from './from.js';\nexport {default as insertAfter} from './insertAfter.js';\nexport {default as isEmpty} from './isEmpty.js';\nexport {default as isLast} from './isLast.js';\nexport {default as isList} from './isList.js';\nexport {default as isNonEmpty} from './isNonEmpty.js';\nexport {default as iter} from './iter.js';\nexport {default as last} from './last.js';\nexport {default as len} from './len.js';\nexport {default as pop} from './pop.js';\nexport {default as push} from './push.js';\nexport {default as setValue} from './setValue.js';\nexport {default as shift} from './shift.js';\nexport {default as single} from './single.js';\nexport {default as unshift} from './unshift.js';\nexport {default as value} from './value.js';\nexport {default as values} from './values.js';\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/insertAfter.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport isEmpty from './isEmpty.js';\nimport _insertAfter from './_insertAfter.js';\n\n/**\n * Inserts value just after input node. Throws if input list is empty\n *\n * @param {Node} x Input node.\n * @param {any} value\n */\nexport default function insertAfter(x, value) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\tassert(isNonEmpty(x));\n\t_insertAfter(x, value);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/insertAfter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "insertAfter",
+    "memberof": "src/insertAfter.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/insertAfter.js~insertAfter",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/insertAfter.js",
+    "importStyle": "insertAfter",
+    "description": "Inserts value just after input node. Throws if input list is empty",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input node."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/isEmpty.js",
+    "content": "import empty from './empty.js';\n\n/**\n * Return whether the input is a list and is empty.\n *\n * @param {any} x Input.\n * @return {boolean} True iff the input is an empty list.\n */\nexport default function isEmpty(x) {\n\treturn x === empty();\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/isEmpty.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/isEmpty.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/isEmpty.js~isEmpty",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/isEmpty.js",
+    "importStyle": "isEmpty",
+    "description": "Return whether the input is a list and is empty.",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True iff the input is an empty list."
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/isLast.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isList from './isList.js';\nimport _isLast from './_isLast.js';\n\n/**\n * Test whether input node is the last node of its list.\n *\n * @param {Node} x Input node (may be null).\n * @return {boolean} True iff input node is last node of the list.\n */\nexport default function isLast(x) {\n\tassert(isList(x));\n\treturn !isEmpty(x) && _isLast(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/isLast.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "isLast",
+    "memberof": "src/isLast.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/isLast.js~isLast",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/isLast.js",
+    "importStyle": "isLast",
+    "description": "Test whether input node is the last node of its list.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input node (may be null)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True iff input node is last node of the list."
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/isList.js",
+    "content": "import isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Return whether the input is a list.\n *\n * @param {any} x Input.\n * @return {boolean} True iff the input is a list.\n */\nexport default function isList(x) {\n\treturn isEmpty(x) || isNonEmpty(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/isList.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "isList",
+    "memberof": "src/isList.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/isList.js~isList",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/isList.js",
+    "importStyle": "isList",
+    "description": "Return whether the input is a list.",
+    "lineNumber": 10,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True iff the input is a list."
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/isNonEmpty.js",
+    "content": "import Node from './Node.js';\n\n/**\n * Return whether the input is a list and is non-empty.\n *\n * @param {any} x Input.\n * @return {boolean} True iff the input is a non-empty list.\n */\nexport default function isNonEmpty(x) {\n\treturn x instanceof Node;\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/isNonEmpty.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "isNonEmpty",
+    "memberof": "src/isNonEmpty.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/isNonEmpty.js~isNonEmpty",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/isNonEmpty.js",
+    "importStyle": "isNonEmpty",
+    "description": "Return whether the input is a list and is non-empty.",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "boolean"
+      ],
+      "spread": false,
+      "description": "True iff the input is a non-empty list."
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "src/iter.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isList from './isList.js';\nimport _iter from './_iter.js';\n\n/**\n * Generator of nodes in list in order.\n *\n * @param {Node} first First node of the list (can be null).\n * @return {IterableIterator<Node>}\n */\nexport default function* iter(first) {\n\tassert(isList(first));\n\tif (!isEmpty(first)) yield* _iter(first);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/iter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "iter",
+    "memberof": "src/iter.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/iter.js~iter",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/iter.js",
+    "importStyle": "iter",
+    "description": "Generator of nodes in list in order.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "first",
+        "description": "First node of the list (can be null)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator<Node>"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/last.js",
+    "content": "// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport _last from './_last.js';\n\n/**\n * Return the last node of an input list. Throws if input list is empty.\n *\n * @param {Node} x First node of the input list.\n * @return {Node} Last node of the input list.\n */\nexport default function last(x) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\treturn _last(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/last.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "last",
+    "memberof": "src/last.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/last.js~last",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/last.js",
+    "importStyle": "last",
+    "description": "Return the last node of an input list. Throws if input list is empty.",
+    "lineNumber": 12,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of the input list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "Last node of the input list."
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/len.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isList from './isList.js';\nimport _len from './_len.js';\n\n/**\n * Compute the length of a list (can be empty).\n *\n * @param {Node} x First node of the input list.\n * @return {number} The length of the input list.\n */\nexport default function len(x) {\n\tassert(isList(x));\n\treturn isEmpty(x) ? 0 : _len(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/len.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "len",
+    "memberof": "src/len.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/len.js~len",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/len.js",
+    "importStyle": "len",
+    "description": "Compute the length of a list (can be empty).",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of the input list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "number"
+      ],
+      "spread": false,
+      "description": "The length of the input list."
+    }
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "src/pop.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _pop from './_pop.js';\n\n/**\n * Removes last {@link Node} from a list. Throws if input list is empty.\n *\n * @param {Node} x First node of input list.\n * @return {[Node, Node]} New list (possibly empty) and removed node.\n */\nexport default function pop(x) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\tassert(isNonEmpty(x));\n\treturn _pop(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/pop.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "function",
+    "name": "pop",
+    "memberof": "src/pop.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/pop.js~pop",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/pop.js",
+    "importStyle": "pop",
+    "description": "Removes last {@link Node} from a list. Throws if input list is empty.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of input list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[Node, Node]"
+      ],
+      "spread": false,
+      "description": "New list (possibly empty) and removed node."
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "file",
+    "name": "src/push.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isList from './isList.js';\nimport concat from './concat.js';\nimport single from './single.js';\n\n/**\n * Push value to list.\n *\n * @param {Node} x First node of first input list (can be null).\n * @param {any} value Value to push.\n * @return {Node} The node at the front of the list (new node if empty, input\n * node otherwise).\n */\nexport default function push(x, value) {\n\tassert(isList(x));\n\treturn concat(x, single(value));\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/push.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 98,
+    "kind": "function",
+    "name": "push",
+    "memberof": "src/push.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/push.js~push",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/push.js",
+    "importStyle": "push",
+    "description": "Push value to list.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of first input list (can be null)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "Value to push."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "The node at the front of the list (new node if empty, input\nnode otherwise)."
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/setValue.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _setValue from './_setValue.js';\n\n/**\n * Set value held by input node. Throws an error if the node is null.\n *\n * @param {Node} x Input node.\n * @param {any} value\n */\nexport default function setValue(x, value) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\tassert(isNonEmpty(x));\n\treturn _setValue(x, value);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/setValue.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "function",
+    "name": "setValue",
+    "memberof": "src/setValue.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/setValue.js~setValue",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/setValue.js",
+    "importStyle": "setValue",
+    "description": "Set value held by input node. Throws an error if the node is null.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "Input node."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 101,
+    "kind": "file",
+    "name": "src/shift.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport _shift from './_shift.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\n\n/**\n * Removes first {@link Node} from a list. Throws if input list is empty.\n *\n * @param {Node} x First node of a non-empty list.\n * @return {[Node, Node]} New list (possibly empty) and removed node.\n */\nexport default function shift(x) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\tassert(isNonEmpty(x));\n\treturn [_shift(x), x];\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/shift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "shift",
+    "memberof": "src/shift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/shift.js~shift",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/shift.js",
+    "importStyle": "shift",
+    "description": "Removes first {@link Node} from a list. Throws if input list is empty.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of a non-empty list."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "[Node, Node]"
+      ],
+      "spread": false,
+      "description": "New list (possibly empty) and removed node."
+    }
+  },
+  {
+    "__docId__": 103,
+    "kind": "file",
+    "name": "src/single.js",
+    "content": "import Node from './Node.js';\n\n/**\n * Create a list containing a single element.\n *\n * @param {any} value Value of the element.\n * @return {Node} The node at the front of the list.\n */\nexport default function single(value) {\n\treturn new Node(value, null);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/single.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "single",
+    "memberof": "src/single.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/single.js~single",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/single.js",
+    "importStyle": "single",
+    "description": "Create a list containing a single element.",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "Value of the element."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "The node at the front of the list."
+    }
+  },
+  {
+    "__docId__": 105,
+    "kind": "file",
+    "name": "src/unshift.js",
+    "content": "import assert from 'assert';\n\nimport Node from './Node.js';\nimport isList from './isList.js';\n\n/**\n * Unshift value to list.\n *\n * @param {Node} x First node of first input list (can be null).\n * @param {any} value Value to unshift.\n * @return {Node} The node at the front of the list (hence, the new node).\n */\nexport default function unshift(x, value) {\n\tassert(isList(x));\n\treturn new Node(value, x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/unshift.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "function",
+    "name": "unshift",
+    "memberof": "src/unshift.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/unshift.js~unshift",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/unshift.js",
+    "importStyle": "unshift",
+    "description": "Unshift value to list.",
+    "lineNumber": 13,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node of first input list (can be null)."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "any"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "Value to unshift."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Node"
+      ],
+      "spread": false,
+      "description": "The node at the front of the list (hence, the new node)."
+    }
+  },
+  {
+    "__docId__": 107,
+    "kind": "file",
+    "name": "src/value.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport isEmpty from './isEmpty.js';\nimport isNonEmpty from './isNonEmpty.js';\nimport _value from './_value.js';\n\n/**\n * Return the first value held by a list. Throws if input list is empty.\n *\n * @param {Node} x First node.\n * @return {any}\n */\nexport default function value(x) {\n\tif (isEmpty(x)) throw new Error('input list is empty');\n\tassert(isNonEmpty(x));\n\treturn _value(x);\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/value.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 108,
+    "kind": "function",
+    "name": "value",
+    "memberof": "src/value.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/value.js~value",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/value.js",
+    "importStyle": "value",
+    "description": "Return the first value held by a list. Throws if input list is empty.",
+    "lineNumber": 15,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "x",
+        "description": "First node."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "any"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "file",
+    "name": "src/values.js",
+    "content": "import assert from 'assert';\n\n// eslint-disable-next-line no-unused-vars\nimport Node from './Node.js';\nimport _iter_fast from './_iter_fast.js';\nimport _value from './_value.js';\nimport isEmpty from './isEmpty.js';\nimport isList from './isList.js';\n\n/**\n * Generator of nodes in list in order.\n *\n * @param {Node} first First node of the list (can be null).\n * @return {IterableIterator<any>}\n */\nexport default function* values(first) {\n\tassert(isList(first));\n\tif (!isEmpty(first)) {\n\t\tfor (const x of _iter_fast(first)) yield _value(x);\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/src/values.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 110,
+    "kind": "function",
+    "name": "values",
+    "memberof": "src/values.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/values.js~values",
+    "access": "public",
+    "export": true,
+    "importPath": "@data-structure-algebra/singly-linked-list/src/values.js",
+    "importStyle": "values",
+    "description": "Generator of nodes in list in order.",
+    "lineNumber": 16,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Node"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "first",
+        "description": "First node of the list (can be null)."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "IterableIterator<any>"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "kind": "index",
+    "content": ":izakaya_lantern: [@data-structure-algebra/singly-linked-list](https://data-structure-algebra.github.io/singly-linked-list)\n==\n\nSingly linked lists for JavaScript.\nSee [docs](https://data-structure-algebra.github.io/singly-linked-list/index.html).\nParent is [js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures).\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n```js\nimport {from} from '@data-structure-algebra/singly-linked-list';\nlet list = from('abc');\n```\n\n[![License](https://img.shields.io/github/license/data-structure-algebra/singly-linked-list.svg)](https://raw.githubusercontent.com/data-structure-algebra/singly-linked-list/main/LICENSE)\n[![Version](https://img.shields.io/npm/v/@data-structure-algebra/singly-linked-list.svg)](https://www.npmjs.org/package/@data-structure-algebra/singly-linked-list)\n[![Tests](https://img.shields.io/github/workflow/status/data-structure-algebra/singly-linked-list/ci:test?event=push&label=tests)](https://github.com/data-structure-algebra/singly-linked-list/actions/workflows/ci:test.yml?query=branch:main)\n[![Dependencies](https://img.shields.io/david/data-structure-algebra/singly-linked-list.svg)](https://david-dm.org/data-structure-algebra/singly-linked-list)\n[![Dev dependencies](https://img.shields.io/david/dev/data-structure-algebra/singly-linked-list.svg)](https://david-dm.org/data-structure-algebra/singly-linked-list?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/data-structure-algebra/singly-linked-list.svg)](https://github.com/data-structure-algebra/singly-linked-list/issues)\n[![Downloads](https://img.shields.io/npm/dm/@data-structure-algebra/singly-linked-list.svg)](https://www.npmjs.org/package/@data-structure-algebra/singly-linked-list)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/data-structure-algebra/singly-linked-list.svg)](https://codeclimate.com/github/data-structure-algebra/singly-linked-list/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/data-structure-algebra/singly-linked-list.svg)](https://codeclimate.com/github/data-structure-algebra/singly-linked-list/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/data-structure-algebra/singly-linked-list/main.svg)](https://codecov.io/gh/data-structure-algebra/singly-linked-list)\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/data-structure-algebra/singly-linked-list.svg)](https://codeclimate.com/github/data-structure-algebra/singly-linked-list/trends/technical_debt)\n[![Documentation](https://data-structure-algebra.github.io/singly-linked-list/badge.svg)](https://data-structure-algebra.github.io/singly-linked-list/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@data-structure-algebra/singly-linked-list)](https://bundlephobia.com/result?p=@data-structure-algebra/singly-linked-list)\n",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@data-structure-algebra/singly-linked-list\",\n  \"description\": \"Singly linked list for JavaScript\",\n  \"version\": \"0.0.1\",\n  \"license\": \"AGPL-3.0\",\n  \"author\": \"make-github-pseudonymous-again\",\n  \"homepage\": \"https://data-structure-algebra.github.io/singly-linked-list\",\n  \"repository\": {\n    \"url\": \"https://github.com/data-structure-algebra/singly-linked-list\",\n    \"type\": \"git\"\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/data-structure-algebra/singly-linked-list/issues\"\n  },\n  \"keywords\": [\n    \"linked\",\n    \"list\",\n    \"singly\"\n  ],\n  \"sideEffects\": false,\n  \"type\": \"module\",\n  \"source\": \"src/index.js\",\n  \"main\": \"dist/index.cjs\",\n  \"module\": \"dist/index.module.js\",\n  \"esmodule\": \"dist/index.modern.js\",\n  \"umd:main\": \"dist/index.umd.js\",\n  \"unpkg\": \"dist/index.umd.js\",\n  \"exports\": {\n    \".\": {\n      \"browser\": \"./dist/index.module.js\",\n      \"umd\": \"./dist/index.umd.js\",\n      \"require\": \"./dist/index.cjs\",\n      \"default\": \"./dist/index.modern.js\"\n    }\n  },\n  \"files\": [\n    \"dist\"\n  ],\n  \"scripts\": {\n    \"build\": \"NODE_ENV=production microbundle\",\n    \"build-docs\": \"esdoc\",\n    \"build-gh-pages\": \"npm run build-docs\",\n    \"ci:build\": \"npm run build\",\n    \"ci:test\": \"npm run lint-config && npm run lint && npm run cover\",\n    \"commit-msg\": \"commitlint --edit\",\n    \"cover\": \"NODE_ENV=cover c8 --all --src src --reporter lcov --reporter text-summary --reporter text npm test\",\n    \"debug\": \"NODE_ENV=debug npm run test -- -st --fail-fast\",\n    \"dev\": \"npm run lint-config-and-fix && npm run lint-and-fix && npm run cover -- -- -st --fail-fast\",\n    \"install-hooks\": \"husky install\",\n    \"lint\": \"xo\",\n    \"lint-and-fix\": \"npm run lint -- --fix\",\n    \"lint-config\": \"fixpack --dryRun\",\n    \"lint-config-and-fix\": \"fixpack || fixpack\",\n    \"postinstall\": \"npm run install-hooks\",\n    \"postpublish\": \"pinst --enable\",\n    \"precommit\": \"lint-staged\",\n    \"prepare\": \"npm run build\",\n    \"prepublishOnly\": \"pinst --disable\",\n    \"release\": \"np --message ':hatching_chick: release: Bumping to v%s.'\",\n    \"test\": \"ava\"\n  },\n  \"dependencies\": {},\n  \"devDependencies\": {\n    \"@babel/core\": \"7.15.0\",\n    \"@babel/preset-env\": \"7.15.0\",\n    \"@babel/register\": \"7.14.5\",\n    \"@commitlint/cli\": \"13.1.0\",\n    \"@iterable-iterator/list\": \"^1.0.1\",\n    \"@iterable-iterator/map\": \"^1.0.1\",\n    \"@iterable-iterator/range\": \"^2.1.0\",\n    \"@js-library/commitlint-config\": \"0.0.4\",\n    \"ava\": \"3.15.0\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.1.0\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"c8\": \"7.8.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"fixpack\": \"4.0.0\",\n    \"husky\": \"7.0.1\",\n    \"lint-staged\": \"11.1.1\",\n    \"microbundle\": \"0.13.1\",\n    \"np\": \"7.5.0\",\n    \"pinst\": \"2.1.6\",\n    \"power-assert\": \"1.6.1\",\n    \"regenerator-runtime\": \"0.13.9\",\n    \"xo\": \"0.43.0\"\n  },\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"sourceMaps\": true,\n    \"presets\": [\n      [\n        \"@babel/preset-env\",\n        {\n          \"targets\": \"current node\"\n        }\n      ]\n    ],\n    \"plugins\": [\n      [\n        \"transform-remove-console\",\n        {\n          \"exclude\": [\n            \"log\",\n            \"error\",\n            \"warn\"\n          ]\n        }\n      ]\n    ],\n    \"env\": {\n      \"debug\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ]\n      },\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"cover\": {\n        \"sourceMaps\": \"both\",\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"development\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ],\n          \"babel-preset-power-assert\"\n        ]\n      },\n      \"production\": {\n        \"presets\": [\n          [\n            \"@babel/preset-env\",\n            {\n              \"targets\": [\n                \"defaults\",\n                \"maintained node versions\"\n              ]\n            }\n          ]\n        ],\n        \"plugins\": [\n          \"babel-plugin-unassert\"\n        ]\n      }\n    }\n  },\n  \"lint-staged\": {\n    \"*.js\": [\n      \"npm run lint-and-fix\"\n    ],\n    \"package.json\": [\n      \"npm run lint-config-and-fix\"\n    ]\n  },\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"xo\": {\n    \"prettier\": true,\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"camelcase\": \"off\",\n      \"unicorn/prevent-abbreviations\": \"off\",\n      \"unicorn/filename-case\": \"off\",\n      \"unicorn/prefer-node-protocol\": \"off\"\n    },\n    \"overrides\": [\n      {\n        \"files\": [\n          \"doc/**\"\n        ],\n        \"env\": \"browser\"\n      }\n    ]\n  }\n}\n",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @data-structure-algebra/singly-linked-list\n```\n\n### npm\n```terminal\nnpm install @data-structure-algebra/singly-linked-list --save\n```\n\n### jspm\n```terminal\njspm install npm:@data-structure-algebra/singly-linked-list\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: Depending on your environment, the code may require\n> `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nawait import('regenerator-runtime/runtime.js');\n// or\nimport 'regenerator-runtime/runtime.js';\n```\n\nThen, import the library where needed\n```js\nconst singlyLinkedList = await import('@data-structure-algebra/singly-linked-list');\n// or\nimport * as singlyLinkedList from '@data-structure-algebra/singly-linked-list';\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/runner/work/singly-linked-list/singly-linked-list/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/data-structure-algebra/singly-linked-list/tree/main/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]
