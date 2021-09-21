@@ -1,12 +1,18 @@
 :izakaya_lantern: [@data-structure-algebra/singly-linked-list](https://data-structure-algebra.github.io/singly-linked-list)
 ==
 
-Singly linked list for JavaScript.
+Singly linked lists for JavaScript.
 See [docs](https://data-structure-algebra.github.io/singly-linked-list/index.html).
+Parent is [js-data-structures](https://github.com/make-github-pseudonymous-again/js-data-structures).
 
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import {from} from '@data-structure-algebra/singly-linked-list';
+let list = from('abc');
+```
 
 [![License](https://img.shields.io/github/license/data-structure-algebra/singly-linked-list.svg)](https://raw.githubusercontent.com/data-structure-algebra/singly-linked-list/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@data-structure-algebra/singly-linked-list.svg)](https://www.npmjs.org/package/@data-structure-algebra/singly-linked-list)
