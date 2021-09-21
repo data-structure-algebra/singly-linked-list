@@ -65,6 +65,9 @@
     "@babel/preset-env": "7.15.0",
     "@babel/register": "7.14.5",
     "@commitlint/cli": "13.1.0",
+    "@iterable-iterator/list": "^1.0.1",
+    "@iterable-iterator/map": "^1.0.1",
+    "@iterable-iterator/range": "^2.1.0",
     "@js-library/commitlint-config": "0.0.4",
     "ava": "3.15.0",
     "babel-plugin-transform-remove-console": "6.9.4",
@@ -197,15 +200,9 @@
       "unicorn"
     ],
     "rules": {
-      "unicorn/filename-case": [
-        "error",
-        {
-          "cases": {
-            "camelCase": true,
-            "pascalCase": true
-          }
-        }
-      ],
+      "camelcase": "off",
+      "unicorn/prevent-abbreviations": "off",
+      "unicorn/filename-case": "off",
       "unicorn/prefer-node-protocol": "off"
     },
     "overrides": [
