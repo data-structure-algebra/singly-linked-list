@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _iter from './_iter.js';
 import isEmpty from './isEmpty.js';
 import isList from './isList.js';
-import _iter from './_iter.js';
 
 /**
  * Generator of nodes in list in order.

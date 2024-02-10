@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _len from './_len.js';
 import isEmpty from './isEmpty.js';
 import isList from './isList.js';
-import _len from './_len.js';
 
 /**
  * Compute the length of a list (can be empty).

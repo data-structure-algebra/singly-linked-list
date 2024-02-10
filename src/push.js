@@ -2,8 +2,8 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
-import isList from './isList.js';
 import concat from './concat.js';
+import isList from './isList.js';
 import single from './single.js';
 
 /**

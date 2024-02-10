@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _value from './_value.js';
 import isEmpty from './isEmpty.js';
 import isNonEmpty from './isNonEmpty.js';
-import _value from './_value.js';
 
 /**
  * Return the first value held by a list. Throws if input list is empty.

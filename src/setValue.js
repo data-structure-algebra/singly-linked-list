@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _setValue from './_setValue.js';
 import isEmpty from './isEmpty.js';
 import isNonEmpty from './isNonEmpty.js';
-import _setValue from './_setValue.js';
 
 /**
  * Set value held by input node. Throws an error if the node is null.

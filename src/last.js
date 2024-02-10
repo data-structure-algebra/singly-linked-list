@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
-import isEmpty from './isEmpty.js';
 import _last from './_last.js';
+import isEmpty from './isEmpty.js';
 
 /**
  * Return the last node of an input list. Throws if input list is empty.

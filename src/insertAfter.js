@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
-import isNonEmpty from './isNonEmpty.js';
-import isEmpty from './isEmpty.js';
 import _insertAfter from './_insertAfter.js';
+import isEmpty from './isEmpty.js';
+import isNonEmpty from './isNonEmpty.js';
 
 /**
  * Inserts value just after input node. Throws if input list is empty

@@ -2,10 +2,10 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _last from './_last.js';
+import _setNext from './_setNext.js';
 import isEmpty from './isEmpty.js';
 import isNonEmpty from './isNonEmpty.js';
-import _setNext from './_setNext.js';
-import _last from './_last.js';
 
 /**
  * Concatenate two input lists.

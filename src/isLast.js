@@ -2,9 +2,9 @@ import assert from 'assert';
 
 // eslint-disable-next-line no-unused-vars
 import Node from './Node.js';
+import _isLast from './_isLast.js';
 import isEmpty from './isEmpty.js';
 import isList from './isList.js';
-import _isLast from './_isLast.js';
 
 /**
  * Test whether input node is the last node of its list.
