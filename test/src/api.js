@@ -16,7 +16,7 @@ import {
 	setValue,
 	values,
 	insertAfter,
-} from '../../src/index.js';
+} from '#module';
 
 const toArray = (first) => list(values(first));
 
